@@ -23,3 +23,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - Flexbox
 - CSS Grid
 - Mobile-first workflow
+
+### What I learned
+
+In CSS, it is important to always create a wild card at the beginning of your styling and it is done by writing a '*'.

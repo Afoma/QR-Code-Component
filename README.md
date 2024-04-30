@@ -26,4 +26,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### What I learned
 
-In CSS, it is important to always create a wild card at the beginning of your styling and it is done by writing a '*'.
+In CSS, it is important to always create a wild card at the beginning of your styling by writing a '*'. Inside it, you make "box-sizing: border-box". You make the box-sizing to be border-box so that whatever padding or margin you are creating will not make the div expand or take more space in the body of the page but it will rather take up the space within the div that you are styling. It is important to create a wild card and style it so that the rules you create inside it will apply to everything in the style code base.
+
+It is usually better to use 'dvw (dynamic viewport height)' and 'dvh (dynamic viewport height)' instead of 'vw' and 'vh' because it also takes into consideration mobile phone devices unlike 'vw' and 'vh'.
+
+To auto-generate a Lorem ipsum text in your html page, write Lorem and press the enter key.

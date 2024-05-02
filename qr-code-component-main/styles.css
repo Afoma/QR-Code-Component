@@ -14,8 +14,9 @@
     font-family: var(--base-font);
 } 
 body{
-    display: grid;
-    place-items: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
     background-color:var(--body-background);
     width:100dvw;
     height:100dvh;
@@ -25,7 +26,6 @@ body{
     border-radius: 8px;
     padding: 10px;
     width:250px;
-    margin: 0 auto;
 }
 #qr-container img{  
     border-radius:6px;

@@ -15,6 +15,12 @@ This is a solution to the [QR code component challenge on Frontend Mentor]
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
+## Overview
+
+### Screenshot
+
+![LiveProject](image.png)
+
 ## My process
 
 ### Built with

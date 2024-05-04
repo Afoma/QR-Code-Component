@@ -31,6 +31,9 @@ In CSS, it is important to always create a wild card at the beginning of your st
 
 It is usually better to use 'dvw (dynamic viewport height)' and 'dvh (dynamic viewport height)' instead of 'vw' and 'vh' because it also takes into consideration mobile phone devices unlike 'vw' and 'vh'.
 
+If you use repeating numbers in your color code, it will result in a shade of grey.
+Example #afafaf, rgb(107,107,107)
+
 To auto-generate a Lorem ipsum text in your html page, write Lorem and press the enter key.
 
 When deploying a project to go live, in order to avoid a 404 error message, make sure that you

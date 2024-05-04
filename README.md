@@ -1,6 +1,7 @@
 # Frontend Mentor - QR code component solution
 
-This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). 
+This is a solution to the [QR code component challenge on Frontend Mentor]
+(https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). 
 ## Table of contents
 
 - [Overview](#overview)
@@ -31,3 +32,7 @@ In CSS, it is important to always create a wild card at the beginning of your st
 It is usually better to use 'dvw (dynamic viewport height)' and 'dvh (dynamic viewport height)' instead of 'vw' and 'vh' because it also takes into consideration mobile phone devices unlike 'vw' and 'vh'.
 
 To auto-generate a Lorem ipsum text in your html page, write Lorem and press the enter key.
+
+When deploying a project to go live, in order to avoid a 404 error message, make sure that you
+are deploying the root directory, that is, the particular directory in which your code is 
+located, except your project is not located in a subdirectory.
